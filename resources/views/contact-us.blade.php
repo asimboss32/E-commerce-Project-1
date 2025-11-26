@@ -20,11 +20,6 @@
                                         <label for="phone">Phone</label>
                                         <input type="number" name="phone" value="" placeholder="Phone*" class="form-control" required/>
                                     </div>
-                                    <div class="col-md-12">
-                                    <div class="input-item-wrapper">
-                                        <label for="phone">Phone(Optional)</label>
-                                        <input type="number" name="phone" value="" placeholder="Phone*" class="form-control"/>
-                                    </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="input-item-wrapper">
